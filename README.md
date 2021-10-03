@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aftab Ashraf Av</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">An Engineering graduate, pursued Postgraduate Diploma in Big Data Biology with 1-year experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience of working on R, Python. I am quick in grasping techniques and I am always eager to learn more and explore more in Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabashraf003&label=Profile%20views&color=0e75b6&style=flat" alt="aftabashraf003" /> </p>
 
