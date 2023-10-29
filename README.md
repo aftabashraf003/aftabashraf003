@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aftab Ashraf Av</h1>
+<h1 align="center">Hi 👋, I'm Aftab Asharaf </h1>
 <h6 align="center">An Engineering graduate, pursued Postgraduate Diploma in Big Data Biology with 1-year experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience of working on R, Python. I am quick in grasping techniques and I am always eager to learn more and explore more in Data Science.</h6>
 
 
