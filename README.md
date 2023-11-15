@@ -11,8 +11,14 @@
 <a href="https://www.hackerrank.com/aftabashraf003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabashraf003" height="15" width="20" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="20" height="20"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> </p>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true">
+  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true" />
+</a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabashraf003&show_icons=true&locale=en" alt="aftabashraf003" /></p>
 
