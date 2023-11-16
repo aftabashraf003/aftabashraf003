@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aftab Asharaf </h1>
-<h6 align="center">An Engineering graduate, pursued Postgraduate Diploma in Big Data Biology with 1-year experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience of working on R, Python. I am quick in grasping techniques and I am always eager to learn more and explore more in Data Science.</h6>
+<h6 align="left">An Engineering graduate, pursued a Postgraduate Diploma in Big Data Biology with 1 year of experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience of working on R, Python. I am quick in grasping techniques and always eager to learn more and explore more in Data Science.</h6>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabashraf003" alt="aftabashraf003" /></a> </p> -->
@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=aftabashraf003&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=aftabashraf003&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true">
-  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=aftabashraf003&hide_border=true">
+  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=aftabashraf003&hide_border=true" />
 </a>
 </p>
 
