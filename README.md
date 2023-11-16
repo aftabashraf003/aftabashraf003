@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aftab Asharaf </h1>
 <h6 align="left">An Engineering graduate, pursued a Postgraduate Diploma in Big Data Biology with 1 year of experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience working on R, Python. I am quick in grasping techniques and always eager to learn more and explore more in Data Science.</h6>
+- 🌱 I’m currently learning **NLP and Computer Vision**
+
+- 💬 Ask me about **Machine Learning, NLP and Backend Development**
+
+- 📫 How to reach me **Aftabashraf003@gmail.com**
+
+- 📄 Know about my experiences [**LinkedIn here**](https://www.linkedin.com/in/aftab-ashraf-av-223386117/)
+
+- ⚡ Fun fact **I am Mental Health advocate! 🧠**
+
+
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabashraf003" alt="aftabashraf003" /></a> </p> -->
