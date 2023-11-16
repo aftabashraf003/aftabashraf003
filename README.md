@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **NLP , Computer Vision and Bioinformatics**
 
-- 💬 Ask me about **Machine Learning, NLP and Backend Development**
+- 💬 Ask me about **Machine Learning, NLP, and Backend Development**
 
 - 📫 How to reach me **Aftabashraf003@gmail.com**
 
 - 📄 Know about my experiences [**LinkedIn here**](https://www.linkedin.com/in/aftab-ashraf-av-223386117/)
 
-- ⚡ Fun fact **I am Mental Health advocate! 🧠**
+- ⚡ Fun fact **I can make the best chicken biriyani🍲**
 
 
 
