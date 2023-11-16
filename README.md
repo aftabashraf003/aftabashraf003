@@ -11,6 +11,12 @@
 <a href="https://www.hackerrank.com/aftabashraf003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabashraf003" height="20" width="20" /></a>
 </p>
 
+<h4 align="left">Tools:</h4>
+<p align="left">
+<p>-->Python
+  -->C++
+  -->Java
+</p>
 
 
 <p align="center">
