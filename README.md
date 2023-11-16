@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 
 
-<h6 align="left">An Engineering graduate, pursued a Postgraduate Diploma in Big Data Biology with 1 year of experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience working on R, Python. I am quick in grasping techniques and always eager to learn more and explore more in Data Science.</h6>
+<h4 align="left">An Engineering graduate, pursued a Postgraduate Diploma in Big Data Biology with 1 year of experience in working with real-world Health care data from biosensors and medical records. Skilled in understanding the data and deriving valuable insights using statistical techniques. And I have good experience working on R, Python. I am quick in grasping techniques and always eager to learn more and explore more in Data Science.</h4>
 
 - 🌱 I’m currently learning **NLP , Computer Vision and Bioinformatics**
 
