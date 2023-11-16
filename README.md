@@ -13,7 +13,7 @@
 
 <h4 align="left">Tools:</h4>
 <p align="left">
-<p>-->Python
+<p>-->Python\n
   -->C++
   -->Java
 </p>
