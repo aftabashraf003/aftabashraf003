@@ -20,6 +20,3 @@
 </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabashraf003&show_icons=true&locale=en" alt="aftabashraf003" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabashraf003&label=Profile%20views&color=0e75b6&style=flat" alt="aftabashraf003" /> </p>
