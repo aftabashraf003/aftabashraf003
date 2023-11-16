@@ -6,10 +6,12 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/aftab-ashraf-av-223386117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab-ashraf-av-223386117" height="15" width="20" /></a>
-<a href="https://kaggle.com/aftabashrafav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aftabashrafav" height="15" width="20" /></a>
-<a href="https://www.hackerrank.com/aftabashraf003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabashraf003" height="15" width="20" /></a>
+<a href="https://linkedin.com/in/aftab-ashraf-av-223386117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab-ashraf-av-223386117" height="20" width="20" /></a>
+<a href="https://kaggle.com/aftabashrafav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aftabashrafav" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/aftabashraf003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabashraf003" height="20" width="20" /></a>
 </p>
+
+
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=aftabashraf003&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
